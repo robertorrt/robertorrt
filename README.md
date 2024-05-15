@@ -1,7 +1,6 @@
-## Bem-vindo ao meu perfil GitHub! 👋
+## Olá!! 👋
 
-### Sobre mim
-Olá! Meu nome é Roberto Teixeira, e sou apaixonado por tecnologia e DevOps. Com uma sólida experiência em infraestrutura de redes e agora com foco em DevOps, tenho trabalhado na interseção entre desenvolvimento e operações para garantir a entrega contínua e confiável de software.
+Meu nome é Roberto Teixeira, e sou apaixonado por tecnologia e DevOps. Com uma sólida experiência em infraestrutura de redes e agora com foco em DevOps, tenho trabalhado na interseção entre desenvolvimento e operações para garantir a entrega contínua e confiável de software.
 
 #### DevOps Stack
 <div style="display: inline_block">
