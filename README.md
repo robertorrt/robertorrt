@@ -7,10 +7,10 @@
   <img height="30" width="30" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
   <img height="30" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
   <img height="30" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
-  <img height="30" width="40" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg">
   <img height="30" width="40" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg">
   <img height="30" width="40" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">
   <img height="30" width="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+  <img height="30" width="40" src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg">
 </div>
 
 #### Project Management Stack
